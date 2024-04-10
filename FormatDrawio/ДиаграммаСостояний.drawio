@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2024-04-10T22:53:39.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="tknGQHuqbVdA9pKi4FEl" version="24.1.0" type="device">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="567" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z0yGloEhLN14zUwyLfS3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="z0yGloEhLN14zUwyLfS3-1" target="z0yGloEhLN14zUwyLfS3-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-1" value="Проверка" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#000000;fillColor=none;swimlaneFillColor=none;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="321.25" y="108" width="155" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-2" value="&lt;font color=&quot;#000000&quot;&gt;выполнить проверку /&lt;br&gt;проверить наличие&lt;br&gt;спецодежды в бд&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=default;labelBackgroundColor=none;" parent="z0yGloEhLN14zUwyLfS3-1" vertex="1">
+          <mxGeometry y="30" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-4" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="39.99999999999999" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="z0yGloEhLN14zUwyLfS3-5" target="z0yGloEhLN14zUwyLfS3-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-5" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
+          <mxGeometry x="39.99999999999999" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="z0yGloEhLN14zUwyLfS3-10" target="z0yGloEhLN14zUwyLfS3-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-10" value="Ожидает" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="101.88" y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z0yGloEhLN14zUwyLfS3-12" target="z0yGloEhLN14zUwyLfS3-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-12" value="Инициализация заказа" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="320" y="30" width="157.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="z0yGloEhLN14zUwyLfS3-13" target="z0yGloEhLN14zUwyLfS3-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-13" value="Выдача спецодежды" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="101.88" y="110" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="z0yGloEhLN14zUwyLfS3-14" target="z0yGloEhLN14zUwyLfS3-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-14" value="&lt;div&gt;Ожидание&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="318.75" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z0yGloEhLN14zUwyLfS3-2" target="z0yGloEhLN14zUwyLfS3-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Позиция в наличии&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0yGloEhLN14zUwyLfS3-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Позиция отсутствует&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="398.75" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
