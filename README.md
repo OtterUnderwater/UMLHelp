@@ -11,9 +11,9 @@ There are 9 types of diagrams in this repository:
 9. Statechart Diagram
 
 ## Folders
-The [FormatPdf](https://github.com/OtterUnderwater/UMLHelp/tree/master/FormatPdf) folder stores diagrams in Pdf format.
-The sources diagrams can be found in the [FormatDrawio](https://github.com/OtterUnderwater/UMLHelp/tree/master/FormatDrawio) folder.
-Good UML textbooks are stored in the [Document](https://github.com/OtterUnderwater/UMLHelp/tree/master/Document) folder.
+The [FormatPdf](https://github.com/OtterUnderwater/UMLHelp/tree/master/FormatPdf) folder stores diagrams in Pdf format.  
+The sources diagrams can be found in the [FormatDrawio](https://github.com/OtterUnderwater/UMLHelp/tree/master/FormatDrawio) folder.  
+Good UML textbooks are stored in the [Document](https://github.com/OtterUnderwater/UMLHelp/tree/master/Document) folder.  
 
 ## Links
 [funny examples of class diagrams](https://habr.com/ru/articles/511798/)  
