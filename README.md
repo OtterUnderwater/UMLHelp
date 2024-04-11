@@ -13,6 +13,7 @@ There are 9 types of diagrams in this repository:
 ## Folders
 The [FormatPdf](https://github.com/OtterUnderwater/UMLHelp/tree/master/FormatPdf) folder stores diagrams in Pdf format.
 The sources diagrams can be found in the [FormatDrawio](https://github.com/OtterUnderwater/UMLHelp/tree/master/FormatDrawio) folder.
+Good UML textbooks are stored in the documents [Document](https://github.com/OtterUnderwater/UMLHelp/tree/master/Document) folder.
 
 ## Support
 If you have any difficulties or questions, please create [discussion](https://github.com/OtterUnderwater/UMLHelp/issues/new/choose) in this repository.
